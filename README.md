@@ -1,8 +1,5 @@
 # SELFBOT LINE PYTHON3
-
-MAAF SOBAT FILE PYTHON DAN LAIN LAINYA TIDAK DI CANTUMKAN.
-KARNA FILE SYSTEM BERBAYAR SILAHKAN GANTI IMPORT NYA AJA PADA
-SCRIPT BOT KALIAN DENGAN COPY PASTEKAN DI BAWAH INI.
+#ทีมงานไรสังกัด
 
 - CONFIGURATION IMPORT FILE
 ```
@@ -42,11 +39,11 @@ KLIK
 - `pip3 install googletrans`
 - `pip3 install youtube_dl`
 - `pip3 install pafy`
-- `git clone https://github.com/0954517662/MAXZA`
+- `git clone https://github.com/lovepeapop/00`
 
 - 'Cara Run Bot'
-- Ketik -> `cd Gye`
-- Ketik -> `python3 gi4.py`
+- Ketik -> `cd 00`
+- Ketik -> `python3 5.py`
 - `Jangan Lupa Kalian isi Dulu Token nya`
 - `Edit via nano Atau storage`
 
